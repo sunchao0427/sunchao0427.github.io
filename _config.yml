@@ -1,6 +1,6 @@
 # Site settings
-title: Sun Chao
-email: sunchao0427@126.com
+title: Woo Jia Hao
+email: sunchao0427@qq.com
 url: https://sunchao0427.github.io
 description: "Personal website"
 keywords: "software, software developer, programming"
@@ -39,14 +39,14 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-   - title: twitter
-     url: https://twitter.com/sunchao0427
-   - title: facebook
-     url: https://facebook.com/sunchao0427
-   - title: stack-overflow
-     url: http://stackoverflow.com/questions/tagged/sunchao0427
-   - title: bitbucket
-     url: https://bitbucket.org/sunchao0427/
+  - title: twitter
+    url: http://twitter.com/sunchao0427
+  - title: facebook
+    url:http://facebook.com/sunchao0427
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/sunchao0427
+  - title: bitbucket
+    url: http://bitbucket.org/sunchao0427
   - title: github
     url: http://github.com/sunchao0427
 
