@@ -1,12 +1,13 @@
 # Site settings
-title: Sun Chao
+locale: zh-CN
+title: 孙 超
 email: sunchao0427@qq.com
 url: https://sunchao0427.github.io
-description: "Personal website"
-keywords: "software, software developer, programming"
-skills: "Software Engineer"
-meta_author: Sun Chao
-locale: "zh-CN"
+description: "个人博客网站"
+keywords: "软件开发、iOS开发、Flutter开发"
+skills: "软件开发工程师"
+meta_author: 孙超
+
 
 # Google webmaster tools
 google_verify:
