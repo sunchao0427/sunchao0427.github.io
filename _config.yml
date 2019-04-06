@@ -7,6 +7,7 @@ description: "个人博客网站"
 keywords: "软件开发、iOS开发、Flutter开发"
 skills: "软件开发工程师"
 meta_author: 孙超
+lang: "zh-CN"
 
 
 # Google webmaster tools
@@ -34,9 +35,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll ssss
-  location: Locationsssssss
-  social: Around the Webssssss
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
