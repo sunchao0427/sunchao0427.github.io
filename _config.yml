@@ -4,9 +4,9 @@ title: 孙 超
 email: sunchao0427@qq.com
 url: https://sunchao0427.github.io
 description: "个人博客网站"
-keywords: "软件开发、iOS开发、Flutter开发"
+keywords: "软件开发、iOS开发 、Flutter开发"
 skills: "软件开发工程师"
-meta_author: 孙超
+meta_author: 孙 超
 lang: "zh-CN"
 
 
@@ -36,9 +36,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: 坐标
-  social: 网络周边
-  credits: 致谢
+  location: 我的坐标
+  social: 我的周边
+  credits: 致  谢
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,10 +55,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 中国杭州
+  - line: 中国·杭州
 
 # Credits content
-credits: 'Freelancer是一个使用<a href="http://startbootstrap.com">Start Bootstrap</a>创建的供免费使用的, 开源的Bootstrap主题.'
+credits: 'Freelancer 是一个使用<a href="http://startbootstrap.com">Start Bootstrap</a>创建的可供免费使用的, 开源的Bootstrap主题.'
 
 # Build settings
 markdown: kramdown
