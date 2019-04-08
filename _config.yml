@@ -58,7 +58,7 @@ address:
   - line: 中国·杭州
 
 # Credits content
-credits: 'Freelancer 是一个使用<a href="http://startbootstrap.com">Start Bootstrap</a>创建的可供免费使用的, 开源的Bootstrap主题.'
+credits: 'Freelancer 是一个使用 <a href="http://startbootstrap.com">Start Bootstrap</a> 创建的可供免费使用的, 开源的 Bootstrap 主题.'
 
 # Build settings
 markdown: kramdown
