@@ -36,9 +36,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: 坐标
+  social: 网络周边
+  credits: 致谢
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,10 +55,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Hangzhou China
+  - line: 中国杭州
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer是一个使用<a href="http://startbootstrap.com">Start Bootstrap</a>创建的供免费使用的, 开源的Bootstrap主题.'
 
 # Build settings
 markdown: kramdown
